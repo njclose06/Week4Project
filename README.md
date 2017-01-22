@@ -9,7 +9,7 @@ Using files downloaded from a specified URL, the instructions were to create an 
   4. Appropriately labels the data set with descriptive variable names.
   5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The Codebook.md file explains about the data used and shows an annotated R script which does all 5 steps above.
+The Codebook.md file explains about the data used.
 
 The run_analysis.R script is the script that will do each of the steps.
 
